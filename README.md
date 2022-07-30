@@ -51,7 +51,7 @@
 </details>
 
 ## About The Project
-<img src=x onMouseOver=alert("Hello")>
+<img src="assets/example.png" onMouseOver=alert("Hello")>
 <img src="assets/example.png" alt="Image of product">
 
 It generates and checks discord nitro codes at the same time for maximum efficiency
